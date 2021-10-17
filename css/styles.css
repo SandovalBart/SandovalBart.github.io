@@ -1,0 +1,63 @@
+/*
+	Name:Bart Sandoval IV
+	Date:09/12/2021
+	Project: Business Website
+*/
+html
+{
+	padding:0px;
+	margin:0px;
+	background-color:#0085f2;
+}
+
+header img
+{
+	width:200px;
+	float:left;
+}
+.clearfix:after
+{
+	clear:both;
+	display:table;
+	content:"";
+}
+
+header, h2, footer
+{
+	font-size: 25px;
+	text-align:center;
+	color:white;
+	background-color:#0085f2;
+}
+
+p
+{
+	background-color:#0085f2;
+	font-size:25px;
+	margin-top:0px;
+	margin-bottom: 0px
+}
+
+nav ul
+{
+	list-style-type:none;
+	margin:0px;
+	font-size: 20px;
+	background-color:#0085f2;
+}
+
+ ul li
+{
+	width:40%;
+	float:left;
+}
+
+header h1, h2, h3
+{
+	margin:0px;
+}
+
+img
+{
+	float:none;
+}
